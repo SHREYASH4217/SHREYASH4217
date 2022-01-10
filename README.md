@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHREYASH4217
+- 👋 Hi, I’m KSASH
 - 👀 I’m interested in bot developing and others
 - 🌱 I’m currently learning dsicord bots
 - 💞️ I’m looking to collaborate on discord communities
